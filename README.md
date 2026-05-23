@@ -128,5 +128,3 @@ Original MECH 315 project: **Daniel Rosenstrauch** and **Hayden Webb**,
 Rice University, Spring 2026.
 
 Python translation, Streamlit UI, and deployment: Daniel Rosenstrauch.
-
-Released under the MIT License.
