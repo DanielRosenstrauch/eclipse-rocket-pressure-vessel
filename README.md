@@ -11,8 +11,8 @@ Spring 2026) final project at Rice University. The original implementation was
 MATLAB; the Python version reproduces every numerical result in the original
 report (see `tests/`).
 
-> **Live demo:** _add Streamlit Community Cloud URL after deploying — see
-> `DEPLOY.md` for the one-time setup._
+See a **LIVE DEMO** now at
+https://eclipse-rocket-pressure-vessel-c6xq3emsxwnqzd9z2es8x7.streamlit.app/
 
 ---
 
